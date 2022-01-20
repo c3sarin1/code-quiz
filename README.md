@@ -1,1 +1,7 @@
-##this is the read me with a live link
+# Code Quiz
+
+## DESCRIPTION
+### a timed quiz that will quiz you about javascript
+
+## deployed site
+### https://c3sarin1.github.io/code-quiz/
